@@ -20,7 +20,7 @@
 
 ## Anaconda中创建R环境
 ### 0 官方教程存在的问题
-使用Anaconda官方的教程（https://docs.anaconda.com/working-with-conda/packages/using-r-language/）创建R环境（`conda create -n r_env r-essentials r-base`）会有一个问题，创建R的最高版本只有3.6。这是因为官方的channel未包含新的R版本。
+使用Anaconda官方的教程（[https://docs.anaconda.com/working-with-conda/packages/using-r-language/](https://docs.anaconda.com/working-with-conda/packages/using-r-language/)）创建R环境（`conda create -n r_env r-essentials r-base`）会有一个问题，创建R的最高版本只有3.6。这是因为官方的channel未包含新的R版本。
 可以在终端通过命令`conda search r-base`来看所有的r-base的版本：
 
 ![Image](https://github.com/user-attachments/assets/c662bfc8-ec0f-4eb3-b155-405950f5781d)
