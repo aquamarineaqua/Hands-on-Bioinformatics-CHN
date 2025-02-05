@@ -24,6 +24,6 @@
 - **预备章节3 Windows下部署Linux系统和开发环境**
 
 - **Chapter 1 RNA-Seq 数据处理与分析：比对、质量控制与定量**
-  RNA-Seq Data Processing and Analysis: Alignment, Quality Control, and Quantification
+  （RNA-Seq Data Processing and Analysis: Alignment, Quality Control, and Quantification）
   - **Section 1-1 用 STAR 进行 RNA-seq 测序比对**
-  STAR alignment
+  （STAR alignment）
