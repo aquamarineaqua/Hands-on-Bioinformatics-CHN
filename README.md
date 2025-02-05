@@ -5,7 +5,7 @@
 
 - 前置知识讲解
 
-- 针对Harvard Stat 115/215课程的Lab和Homework内容的讲解。<br>
+- 针对Harvard Stat 115/215课程的Lab和Homework内容的实战讲解。<br>
 
 内容了加入自己的理解和改动，并用Python和R复现，一台普通的笔记本电脑就可以跑我教程中的分析。<br>
 每个教程是一个目录，`readme.md`即为教程正文，教程基本会配有一个相同内容`ipynb`记事本文件。<br>本教程中的实战基本会用Python和R分别实现。<br>
