@@ -144,7 +144,7 @@ conda install -c bioconda salmon
 
 **（1）生成转录本序列文件**
 
-使用Salmon做定量计算，首先需要通过salmon命令行工具 `salmon index` 生成Salmon的**转录本索引**。我们需要准备好FASTA格式的 **转录本序列文件**（Transcriptome Sequence），用于后续分析。
+使用Salmon做定量计算，首先需要通过salmon命令行工具 `salmon index` 生成Salmon的**转录本索引**。在此之前，我们需要先准备好FASTA格式的 **转录本序列文件**（Transcriptome Sequence），用于后续计算。
 
 注意，**基因组序列（Genome Sequence）** 和 **注释文件（Annotation File）** 可以结合生成 **转录本序列（Transcriptome Sequence）**，因为注释文件定义了基因组中每个转录本的结构（如外显子的位置、顺序和拼接方式），而基因组序列提供了实际的 DNA 碱基序列。
 
