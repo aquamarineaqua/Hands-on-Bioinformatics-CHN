@@ -62,6 +62,8 @@ bam_stat.py -i 1M_SRR9336468_Aligned.sortedByCoord.out.bam
 
 ![Image](https://github.com/user-attachments/assets/64494971-a95b-4b92-93ab-0cfec86a6856)
 
+我也在仓库上传了此BED文件`Saccharomyces_cerevisiae.R64-1-1.107.bed`。
+
 此外，也可以自己将 GTF文件 转化为 BED文件 ，BED文件本质上是简化版的基因组注释信息，可在网上自行搜索相关方法。
 
 **2 生成BAM文件对应的`bai`文件**
