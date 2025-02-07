@@ -15,4 +15,13 @@
 - **Chapter 1 RNA-Seq 数据处理与分析：比对、质量控制与定量**
   （RNA-Seq Data Processing and Analysis: Alignment, Quality Control, and Quantification）
   - **Section 1-1 用 STAR 进行 RNA-seq 测序比对**
-  （STAR alignment）
+    （STAR alignment）
+  
+  - **Section 1-2 RNA-Seq 质量控制**
+    （RNA-Seq quality control）
+    
+  - **Section 1-3 RNA-Seq 定量**
+    （RNA-Seq quantification）
+  
+  - **Section 1-4 RSEM与Salmon结果对比**
+    （Compare RSEM vs Salmon）
