@@ -57,7 +57,7 @@ conda create -n r_bio -c conda-forge r-base=4.4.1 python=3.10
 
 我们也可以选择直接安装R基础包集合（R Essentials bundle），即r-essentials，里面包含了80多个常见的R包扩展，如IRKernel, dplyr, shiny, ggplot2, tidyr, caret, nnet等。
 
-注：anaconda中的R包详情详见：https://repo.anaconda.com/pkgs/r/，日后可以用来查找某个R包是否在这里面，如果存在的话就可以直接用上面提到的`conda install -c conda-forge r-包名称`命令来安装了。
+注：anaconda中的R包详情详见：[https://repo.anaconda.com/pkgs/r/](https://repo.anaconda.com/pkgs/r/)。 日后可以用来查找某个R包是否在这里面，如果存在的话就可以直接用上面提到的`conda install -c conda-forge r-包名称`命令来安装了。
 
 我们先激活环境，然后安装：
 
